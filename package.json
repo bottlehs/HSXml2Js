@@ -1,0 +1,24 @@
+{
+  "name": "hsxml2js",
+  "version": "1.0.0",
+  "description": "xml to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bottlehs/HSXml2Js.git"
+  },
+  "keywords": [
+    "xml",
+    "javascript",
+    "json"
+  ],
+  "author": "bottlehs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bottlehs/HSXml2Js/issues"
+  },
+  "homepage": "https://github.com/bottlehs/HSXml2Js#readme"
+}
